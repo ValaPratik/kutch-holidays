@@ -27,7 +27,7 @@ Date: ${date}
 Travellers: ${travellers}
 Special Request: ${message}`;
 
-    window.open(`https://wa.me/919909000241?text=${encodeURIComponent(waText)}`, '_blank');
+    window.open(`https://wa.me/918866806434?text=${encodeURIComponent(waText)}`, '_blank');
   });
 }
 
